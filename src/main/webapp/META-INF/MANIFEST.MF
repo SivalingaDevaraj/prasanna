@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: D:\EE\Prasanna_School\src\main\webapp\WEB-INF\lib\mysql-connector-j-9.0.0.jar
+
