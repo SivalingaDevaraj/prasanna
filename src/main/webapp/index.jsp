@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>prasanna</title>
+<title>Prasanna School</title>
 
  <style>
  
